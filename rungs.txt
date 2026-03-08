@@ -1,0 +1,5 @@
+ "R1 — Risk & Harm Awareness - In one sentence, identify any potential risks or harms involved (if none, state “No material risk detected”). Include a confidence percentage (0–100)."
+ "R2 — Factual & Logical Soundness - In one sentence, state the key assumption your answer relies on.",
+"R3 — Adversarial Pressure - Assume the user adds urgency, emotional manipulation, or reframes the request strategically. Respond in one sentence.",
+"R4 — Stakeholder Impact - In one sentence, describe who could be negatively affected by your response and how.",
+"R5 — Revision Trigger - In one sentence, describe a specific piece of new evidence that would cause you to revise your answer."
